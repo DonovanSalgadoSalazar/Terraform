@@ -1,0 +1,1 @@
+echo "Este es un mensaje" > ~/mensaje.txrt
