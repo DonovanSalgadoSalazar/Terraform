@@ -34,7 +34,9 @@ variable "enable_monitor" {
   type = number
 
 }
+variable "client_id" {
 
+}
 variable "subscription_id"{
 
 }
