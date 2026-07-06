@@ -10,7 +10,7 @@ resource "azurerm_resource_group" "pruebaterra" {
 
 resource "azurerm_static_web_app" "pruebaterra" {
   # for_each = toset(var.instancias)
-  name                = "TerraformCloudPrueba"
+  name                = "TerraformCloudPrueba222222"
   resource_group_name = azurerm_resource_group.pruebaterra.name
   location            = azurerm_resource_group.pruebaterra.location
 
